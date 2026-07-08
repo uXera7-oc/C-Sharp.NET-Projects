@@ -56,13 +56,9 @@ A desktop application that simulates a simple employee management system using *
 
 ### Screenshots
 
-#### Application
-
 ```
 https://github.com/uXera7-oc/C-Sharp.NET-Projects/blob/main/IT%20Employee%20Directory/IT%20ED1.PNG
 ```
-
-#### Demo
 
 ```
 https://github.com/uXera7-oc/C-Sharp.NET-Projects/blob/main/IT%20Employee%20Directory/IT%20ED4.PNG
@@ -93,16 +89,13 @@ A modern Windows Forms login interface built to practice authentication UI desig
 
 ### Screenshots
 
-#### Application
 
 ```
-/Images/Login Page/Main.png
+https://github.com/uXera7-oc/C-Sharp.NET-Projects/blob/main/LOGIN/LOGIN1.PNG
 ```
 
-#### Demo
-
 ```
-/Images/Login Page/Demo.gif
+https://github.com/uXera7-oc/C-Sharp.NET-Projects/blob/main/LOGIN/LOGIN3.PNG
 ```
 
 ---
@@ -140,16 +133,13 @@ A complete pizza ordering application demonstrating how to build interactive for
 
 ### Screenshots
 
-#### Application
 
 ```
-/Images/Pizza Project/Main.png
+https://github.com/uXera7-oc/C-Sharp.NET-Projects/blob/main/Pizza%20Project/Pizza1.PNG
 ```
 
-#### Demo
-
 ```
-/Images/Pizza Project/Demo.gif
+https://github.com/uXera7-oc/C-Sharp.NET-Projects/blob/main/Pizza%20Project/Pizza5.PNG
 ```
 
 ---
@@ -178,16 +168,13 @@ A fully playable Tic Tac Toe game developed with Windows Forms.
 
 ### Screenshots
 
-#### Application
 
 ```
-/Images/Tic Tac Toe/Main.png
+https://github.com/uXera7-oc/C-Sharp.NET-Projects/blob/main/TIC%20TAC%20TOE%20Game/TTT1.PNG
 ```
 
-#### Demo
-
 ```
-/Images/Tic Tac Toe/Demo.gif
+https://github.com/uXera7-oc/C-Sharp.NET-Projects/blob/main/TIC%20TAC%20TOE%20Game/TTT3.PNG
 ```
 
 ---
@@ -218,19 +205,10 @@ A simple but useful desktop widget that displays the current year's progress vis
 
 ### Screenshots
 
-#### Application
-
 ```
-/Images/Year Progress Bar/Main.png
+https://github.com/uXera7-oc/C-Sharp.NET-Projects/blob/main/Year%20Progress%20Bar/Progress%20Bar.PNG
 ```
 
-#### Demo
-
-```
-/Images/Year Progress Bar/Demo.gif
-```
-
----
 
 # 🧱 Project Architecture
 
@@ -339,65 +317,6 @@ These projects helped strengthen my understanding of:
 
 ---
 
-# 📷 Repository Preview
-
-You can place your screenshots like this:
-
-```
-Images/
-│
-├── IT Employee Directory/
-│   ├── Main.png
-│   └── Demo.gif
-│
-├── Login Page/
-│   ├── Main.png
-│   └── Demo.gif
-│
-├── Pizza Project/
-│   ├── Main.png
-│   └── Demo.gif
-│
-├── Tic Tac Toe/
-│   ├── Main.png
-│   └── Demo.gif
-│
-└── Year Progress Bar/
-    ├── Main.png
-    └── Demo.gif
-```
-
-Then embed them inside the README:
-
-```markdown
-## IT Employee Directory
-
-![IT Employee Directory](Images/IT%20Employee%20Directory/Main.png)
-
-### Demo
-
-![Demo](Images/IT%20Employee%20Directory/Demo.gif)
-```
-
----
-
-# 🚀 Future Improvements
-
-Planned future projects include:
-
-- File handling
-- Database integration (SQL Server)
-- Entity Framework
-- LINQ
-- Multi-form applications
-- Custom User Controls
-- Dashboard applications
-- Authentication systems
-- API integration
-- Modern WinForms UI
-- Dark/Light Theme support
-
----
 
 # 🙏 Acknowledgment
 

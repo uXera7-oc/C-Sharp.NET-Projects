@@ -1,0 +1,10 @@
+C:\Users\USER PC\Desktop\Year Progress Bar\Year PB\bin\Debug\ProgressBar.exe.config
+C:\Users\USER PC\Desktop\Year Progress Bar\Year PB\bin\Debug\ProgressBar.exe
+C:\Users\USER PC\Desktop\Year Progress Bar\Year PB\bin\Debug\ProgressBar.pdb
+C:\Users\USER PC\Desktop\Year Progress Bar\Year PB\obj\Debug\ProgressBar.csproj.AssemblyReference.cache
+C:\Users\USER PC\Desktop\Year Progress Bar\Year PB\obj\Debug\ProgressBar.Form1.resources
+C:\Users\USER PC\Desktop\Year Progress Bar\Year PB\obj\Debug\ProgressBar.Properties.Resources.resources
+C:\Users\USER PC\Desktop\Year Progress Bar\Year PB\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+C:\Users\USER PC\Desktop\Year Progress Bar\Year PB\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\Desktop\Year Progress Bar\Year PB\obj\Debug\ProgressBar.exe
+C:\Users\USER PC\Desktop\Year Progress Bar\Year PB\obj\Debug\ProgressBar.pdb

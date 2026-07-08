@@ -1,0 +1,11 @@
+C:\Users\USER PC\Desktop\Login Test\bin\Debug\Tests.exe.config
+C:\Users\USER PC\Desktop\Login Test\bin\Debug\Tests.exe
+C:\Users\USER PC\Desktop\Login Test\bin\Debug\Tests.pdb
+C:\Users\USER PC\Desktop\Login Test\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\USER PC\Desktop\Login Test\obj\Debug\Tests.AdminPanel.resources
+C:\Users\USER PC\Desktop\Login Test\obj\Debug\Tests.Form1.resources
+C:\Users\USER PC\Desktop\Login Test\obj\Debug\Tests.Properties.Resources.resources
+C:\Users\USER PC\Desktop\Login Test\obj\Debug\Tests.csproj.GenerateResource.cache
+C:\Users\USER PC\Desktop\Login Test\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\Desktop\Login Test\obj\Debug\Tests.exe
+C:\Users\USER PC\Desktop\Login Test\obj\Debug\Tests.pdb

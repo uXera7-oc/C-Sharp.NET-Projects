@@ -1,0 +1,10 @@
+C:\Users\USER PC\Desktop\IT Employee Directory\IT ED\bin\Debug\ListView Practise.exe.config
+C:\Users\USER PC\Desktop\IT Employee Directory\IT ED\bin\Debug\ListView Practise.exe
+C:\Users\USER PC\Desktop\IT Employee Directory\IT ED\bin\Debug\ListView Practise.pdb
+C:\Users\USER PC\Desktop\IT Employee Directory\IT ED\obj\Debug\ListView Practise.csproj.AssemblyReference.cache
+C:\Users\USER PC\Desktop\IT Employee Directory\IT ED\obj\Debug\ListView_Practise.frmED.resources
+C:\Users\USER PC\Desktop\IT Employee Directory\IT ED\obj\Debug\ListView_Practise.Properties.Resources.resources
+C:\Users\USER PC\Desktop\IT Employee Directory\IT ED\obj\Debug\ListView Practise.csproj.GenerateResource.cache
+C:\Users\USER PC\Desktop\IT Employee Directory\IT ED\obj\Debug\ListView Practise.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\Desktop\IT Employee Directory\IT ED\obj\Debug\ListView Practise.exe
+C:\Users\USER PC\Desktop\IT Employee Directory\IT ED\obj\Debug\ListView Practise.pdb

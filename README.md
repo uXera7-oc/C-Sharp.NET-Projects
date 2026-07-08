@@ -59,13 +59,13 @@ A desktop application that simulates a simple employee management system using *
 #### Application
 
 ```
-/Images/IT Employee Directory/Main.png
+https://github.com/uXera7-oc/C-Sharp.NET-Projects/blob/main/IT%20Employee%20Directory/IT%20ED1.PNG
 ```
 
 #### Demo
 
 ```
-/Images/IT Employee Directory/Demo.gif
+https://github.com/uXera7-oc/C-Sharp.NET-Projects/blob/main/IT%20Employee%20Directory/IT%20ED4.PNG
 ```
 
 ---
